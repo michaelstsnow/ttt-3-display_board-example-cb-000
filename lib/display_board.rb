@@ -1,6 +1,6 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
 def display_board
-  #This is a comment 
+  #This prints out the basic structure of the tic tac toe board
   print "   |   |   "
   print "-----------"
   print "   |   |   "
